@@ -1,4 +1,5 @@
 # 🧑‍💻 Ing. Larry Herrera - Portafolio de GitHub
+![Portafolio en Construcción](https://img.shields.io/badge/Portafolio%20en%20Construcción-FFD700?style=for-the-badge&logo=construction&logoColor=white)
   
 ![GitHub followers](https://img.shields.io/github/followers/larsai85?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/larsai85?style=social)
