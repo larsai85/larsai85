@@ -1,4 +1,4 @@
-# 🧑‍💻 [Ing. Larry Herrera] - Portafolio de GitHub
+# 🧑‍💻 Ing. Larry Herrera - Portafolio de GitHub
   
 ![GitHub followers](https://img.shields.io/github/followers/larsai85?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/larsai85?style=social)
@@ -33,6 +33,20 @@ Soy un apasionado por la tecnología y la programación, siempre en busca de nue
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Jmeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+![Selenium IDE](https://img.shields.io/badge/Selenium%20IDE-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-007ACC?style=for-the-badge&logo=uipath&logoColor=white)
+![Automation Anywhere](https://img.shields.io/badge/Automation%20Anywhere-FF9900?style=for-the-badge&logo=automation-anywhere&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0089D6?style=for-the-badge&logo=power-automate&logoColor=white)
+![Botcity](https://img.shields.io/badge/Botcity-008080?style=for-the-badge&logo=botcity&logoColor=white)
+![Pix RPA](https://img.shields.io/badge/Pix%20RPA-3D3D3D?style=for-the-badge&logo=pix-rpa&logoColor=white)
+![Robocorp](https://img.shields.io/badge/Robocorp-1F76BE?style=for-the-badge&logo=robocorp&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
+![Rocketbot](https://img.shields.io/badge/Rocketbot-FF4088?style=for-the-badge&logo=rocketbot&logoColor=white)
 
 ## 🌟 Proyectos Destacados
 ### 1. [Automated Email Sender]() - Script para enviar correos electrónicos automáticamente.
