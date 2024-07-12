@@ -11,10 +11,22 @@ Soy un apasionado por la tecnología y la programación, siempre en busca de nue
 
 ## 🚀 Habilidades Técnicas
 
-- **Lenguajes de Programación:** Python, JavaScript, SQL
-- **Frameworks y Herramientas:** Selenium, PyTest, BeautifulSoup, Requests
-- **Sistemas de Control de Versiones:** Git, GitHub
-- **Otras Tecnologías:** API REST, Web Scraping, CI/CD
+- **Análisis de Datos y Procesos:** Power BI, Excel, Pandas
+- **BD:** MSSQL, MySQL, PostgreSQL
+- **Cloud Computing:** GCP, AWS, Azure
+- **Contenedores:** Docker
+- **Control de Versiones:** Git, GitHub
+- **CI/CD:** GitHub Actions, Azure DevOps, Jenkins.
+- **Frameworks:** FastAPI
+- **Gestión y Administración de Proyectos:** Trello, ClickUp, Notion, Jira
+- **IA:** Prompt Engineering
+- **Lenguajes:** Python, PHP, JavaScript
+- **Metodologías Ágiles:** Scrum
+- **Ofimática:** Microsoft Office, Open Office, Google Workspace
+- **Redes:** LAN, WAN, VLAN, WLAN
+- **S.O.:** Windows, Linux, MAC
+- **Teletrabajo:** Zoom, Slack, Microsoft Teams, Google Meet, Ring Central
+- **Documentación:** Plan de Pruebas, Casos de Prueba, Resultados de Pruebas, PDD, SDD, Diagramas de Flujo, Manuales de Usuario, entre otros.
 
 ## 🚀 Herramientas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
